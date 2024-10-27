@@ -1,4 +1,4 @@
-package com.bcg.bestchoisegamebackend;
+package com.bcg.bestchoisegamebackend.validator;
 
 public record PokemonIdsPairs(int id1, int id2) {
 

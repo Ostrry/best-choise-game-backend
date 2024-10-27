@@ -1,4 +1,4 @@
-package com.bcg.bestchoisegamebackend;
+package com.bcg.bestchoisegamebackend.validator;
 
 import org.springframework.web.bind.annotation.GetMapping;
 

@@ -1,4 +1,4 @@
-package com.bcg.bestchoisegamebackend;
+package com.bcg.bestchoisegamebackend.rest;
 
 
 import java.util.UUID;

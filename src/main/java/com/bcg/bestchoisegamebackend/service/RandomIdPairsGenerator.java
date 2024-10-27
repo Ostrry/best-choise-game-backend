@@ -1,5 +1,6 @@
-package com.bcg.bestchoisegamebackend;
+package com.bcg.bestchoisegamebackend.service;
 
+import com.bcg.bestchoisegamebackend.validator.PokemonIdsPairs;
 import org.springframework.stereotype.Service;
 
 import java.security.SecureRandom;
